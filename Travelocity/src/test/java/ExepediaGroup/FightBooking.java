@@ -35,7 +35,7 @@ public class FightBooking {
 	driver.findElement(By.id("flight-age-select-2-hp-flight")).sendKeys(f);
 	Thread.sleep(3000);
 	
-	
+	//Just for testing
 	
 	  
 	  
